@@ -1,1 +1,3 @@
 .venv
+nlp.h5
+tokenizer.pkl
